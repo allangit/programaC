@@ -1,3 +1,6 @@
+/*comentarios 
+en la linea */
+
 #include <stdio.h>
 #include <stdlib.h>
 

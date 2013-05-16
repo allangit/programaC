@@ -1,6 +1,7 @@
 /*
  * hol.c
  * Test Hello world program
+ * This is another comment
  **/
 
 #include <stdio.h>
