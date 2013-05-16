@@ -1,3 +1,7 @@
+/**
+This is another comment
+*/
+
 #include <stdio.h>
 int main()
 {
